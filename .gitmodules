@@ -1,0 +1,3 @@
+[submodule "Quotables"]
+	path = Quotables
+	url = https://github.com/alvations/Quotables.git
