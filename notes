@@ -20,3 +20,8 @@ People might be the most common 7glyph, but be made up of uncommon 6 5 and 4glyp
 
 
 I feel as if there's some kind of really interesting probability structure here, but I need to figure more before I know exactly how to work with it.
+
+It would be cool to estimate time cost of backspace / mistakes & corrections.
+Also, see if there is any corrilation on errors, z for 2 (lol) or such.
+
+Game should have a stream mode, where letters flow across
