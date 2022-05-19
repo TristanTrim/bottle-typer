@@ -27,3 +27,9 @@ Also, see if there is any corrilation on errors, z for 2 (lol) or such.
 Game should have a stream mode, where letters flow across
 
 measure and graph some repeat curves!
+
+Potential classes of error:
+- added letter
+- missed letter
+- incorrect letter (conceptually like missed and added, lol)
+- swapped letter order (hard to detect, but important in commonly typed combos like 'est' -> 'set')
